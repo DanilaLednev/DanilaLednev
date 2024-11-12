@@ -109,12 +109,11 @@
       <br />
       MUI
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#lednev-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
+    <td align="center" width="110" height="90"> 
+      <a href="#lednev-stack" >
+        <img src="https://www.svgrepo.com/show/349342/docker.svg" width="36" height="36" alt="docker" />
       </a>
-      <br />
-      Figma
+      <br>Docker
     </td>
     <td align="center" width="110" height="90">
       <a href="#lednev-stack">
@@ -136,6 +135,12 @@
       </a>
       <br />
       GitHub
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#lednev-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
+      </a>
+      <br>GraphQL
     </td>
   </tr>
 </table>
@@ -209,12 +214,6 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#lednev-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#lednev-stack" >
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="36" height="36" alt="Mongo DB" />
       </a>
       <br>MongoDB
@@ -236,9 +235,9 @@
   <tr>
     <td align="center" width="110" height="90"> 
       <a href="#lednev-stack" >
-        <img src="https://www.svgrepo.com/show/349342/docker.svg" width="36" height="36" alt="docker" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/384px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="docker" />
       </a>
-      <br>Docker
+      <br>Electron
     </td>
         <td align="center" width="110" height="90"> 
       <a href="#lednev-stack" >
